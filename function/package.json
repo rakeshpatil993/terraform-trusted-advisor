@@ -1,0 +1,23 @@
+{
+    "name": "modernisation-platform-terraform-trusted-advisor",
+    "version": "1.0.0",
+    "description": "Lambda to refresh AWS Trusted Advisor",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ministryofjustice/modernisation-platform-terraform-trusted-advisor.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/ministryofjustice/modernisation-platform/issues"
+    },
+    "homepage": "https://github.com/ministryofjustice/modernisation-platform-terraform-trusted-advisor#readme",
+    "devDependencies": {
+      "aws-sdk": "^2.814.0"
+    }
+  }
